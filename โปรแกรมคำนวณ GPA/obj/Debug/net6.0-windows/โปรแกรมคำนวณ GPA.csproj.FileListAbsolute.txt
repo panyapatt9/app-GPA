@@ -1,0 +1,16 @@
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\bin\Debug\net6.0-windows\โปรแกรมคำนวณ GPA.exe
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\bin\Debug\net6.0-windows\โปรแกรมคำนวณ GPA.deps.json
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\bin\Debug\net6.0-windows\โปรแกรมคำนวณ GPA.runtimeconfig.json
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\bin\Debug\net6.0-windows\โปรแกรมคำนวณ GPA.dll
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\bin\Debug\net6.0-windows\โปรแกรมคำนวณ GPA.pdb
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\obj\Debug\net6.0-windows\โปรแกรมคำนวณ_GPA.Form1.resources
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\obj\Debug\net6.0-windows\โปรแกรมคำนวณ GPA.csproj.GenerateResource.cache
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\obj\Debug\net6.0-windows\โปรแกรมคำนวณ GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\obj\Debug\net6.0-windows\โปรแกรมคำนวณ GPA.AssemblyInfoInputs.cache
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\obj\Debug\net6.0-windows\โปรแกรมคำนวณ GPA.AssemblyInfo.cs
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\obj\Debug\net6.0-windows\โปรแกรมคำนวณ GPA.csproj.CoreCompileInputs.cache
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\obj\Debug\net6.0-windows\โปรแกรมคำนวณ GPA.dll
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\obj\Debug\net6.0-windows\refint\โปรแกรมคำนวณ GPA.dll
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\obj\Debug\net6.0-windows\โปรแกรมคำนวณ GPA.pdb
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\obj\Debug\net6.0-windows\โปรแกรมคำนวณ GPA.genruntimeconfig.cache
+C:\Users\wwwpa\OneDrive\เดสก์ท็อป\code\app\โปรแกรมคำนวณ GPA\โปรแกรมคำนวณ GPA\obj\Debug\net6.0-windows\ref\โปรแกรมคำนวณ GPA.dll
